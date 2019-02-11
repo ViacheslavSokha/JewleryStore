@@ -1,0 +1,21 @@
+img.logo {
+	margin-right: 40px;
+	margin-left: 20px;
+	width: 30px;
+	margin-top: 10px;
+}
+div.row.shop-window, footer.row {
+	margin-top: 50px;
+}
+footer.row {
+	background-image: linear-gradient(to top right, black, darkslategrey,  darkgray);
+	color: darkgray;
+	padding-bottom: 30px;
+}
+div.row.author {
+	color: darkgray;
+	background-color: black;
+}
+p.author {
+	padding-top: 20px;
+}
